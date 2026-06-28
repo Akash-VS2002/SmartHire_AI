@@ -1,7 +1,6 @@
 venv/
 .venv/
 env/
-ENV/
 .env
 /agents/__pycache__/
 /graph/__pycache__/
